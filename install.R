@@ -1,0 +1,11 @@
+install.packages("pacman")
+install.packages("ggplot2")
+install.packages("xtable")
+install.packages("stargazer") 
+install.packages("data.table") 
+install.packages("repr")
+install.packages("dplyr")
+install.packages("texreg")
+install.packages("rio")
+install.packages("tidyr")
+
