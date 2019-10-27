@@ -8,4 +8,5 @@ install.packages("dplyr")
 install.packages("texreg")
 install.packages("rio")
 install.packages("tidyr")
+install.packages("tidyverse")
 
